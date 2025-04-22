@@ -31,7 +31,7 @@
 
 ---
 
-## 📁 ディレクトリ構成
+## ディレクトリ構成（Directory Structure）
 
 ```bash
 hokoron/

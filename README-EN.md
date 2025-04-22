@@ -30,7 +30,7 @@ Hokoron is founded on the following four pillars:
 
 ---
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```bash
 hokoron/
